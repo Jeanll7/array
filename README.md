@@ -1,5 +1,7 @@
 ### funções de uma array
 
+
+```bash
 [1, 2, 3].push(4); // Adiciona o item no final na lista : [1, 2, 3, 4]
 [1, 2, 3].pop(); // Remove o ultimo item da lista : [1, 2]
 [1, 2, 3].shift(); // Remove o primeiro item da lista : [2, 3]
@@ -21,3 +23,4 @@
 [3, 5, 6, 8].some(x => x > 6); // Valida se um dos itens estão de acordo : true
 [3, 5, 6, 8].reverse(); // Inverte toda a array : [8, 6, 5, 3]
 [3, 5, 6, 8].at(-2); // Varre a array de trás para frente : 6
+```
