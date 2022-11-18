@@ -1,5 +1,6 @@
-### funções de uma array
+## funções de uma array
 
+<br>
 
 ```bash
 [1, 2, 3].push(4); // Adiciona o item no final na lista : [1, 2, 3, 4]
