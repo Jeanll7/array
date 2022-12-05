@@ -1,4 +1,4 @@
-## funções de uma array
+## funções de um array
 
 <br>
 
